@@ -3,4 +3,6 @@ Analysis of survey data from the UCI Machine Learning Repository on the Amazon M
 
 <a href= "https://github.com/n8mauer/DriveThruML/blob/main/notebook/Project%20File.ipynb"> Project Notebook</a>
 
+<h4 tabindex="-1" class="heading-element" dir="auto">The main finding was that the coupons are accepted by those people who go to the bar more than once a month, were over the age of 21 and were not widowed.</h4> 
 
+Foreseeable next steps for additional investigation could be to compare age groups and their probabily to accept coupons, or compare age groups and time of rides to find out when the coupons are accepted.
