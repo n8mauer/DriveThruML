@@ -1,5 +1,5 @@
 # DriveThruML
-The objective of the project was to predict whether customers would accept a coupon based on various driving scenarios, using data analysis and visualization techniques. In the project, Python served as the programming language, with Seaborn and Matplotlib utilized for data visualization, Pandas for data manipulation and analysis, and NumPy for numerical computations, enhancing the ability to analyze and present data insights effectively. A Jupyter Notebook was created and used to capture all steps and analysis.
+The objective of the project was to predict whether customers would accept a coupon based on various driving scenarios through data analysis and visualization techniques. In the project, Python served as the programming language, with Seaborn and Matplotlib utilized for data visualization, Pandas for data manipulation and analysis, and NumPy for numerical computations, enhancing the ability to analyze and present data insights effectively. A Jupyter Notebook was created and used to capture all steps and analysis.
 
 <a href= "https://github.com/n8mauer/DriveThruML/blob/main/notebook/Project%20File.ipynb"> Project Notebook</a>
 
